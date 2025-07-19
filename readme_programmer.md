@@ -2,7 +2,7 @@
 
 <p align="center">  <img src="https://github.com/teapotlaboratories/bwlr1e/raw/main/docs/images/programmer/showcase_render.gif" alt="case_render"  width="50%" height="50%"/></p>
  
-Teapotlabs BWLR1E Programmer is a device to support programming Teapotlabs BWLR1E without soldering to the device. The programmer interface to the device program pad via pogo-pins.
+Treelink Module BWLR1E Programmer is a device to support programming Teapotlabs BWLR1E without soldering to the device. The programmer interface to the device program pad via pogo-pins.
  
 ## Specification
 
