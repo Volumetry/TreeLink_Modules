@@ -136,8 +136,8 @@ You can also use [STM32CubeProgrammer](https://www.st.com/en/development-tools/s
 An alternative to solder-free programming is to use the Teapotlabs BWLR1E Programmer. A full detail of the device can be found [here](https://github.com/teapotlaboratories/bwlr1e/blob/main/readme_programmer.md).
 The programmer connects to UART2 of the device. 
 
-<!-- ## License
+-- ## License
 The product is open-source! However, some part of library used under **src**, might have it's own license.
 Please reach out or create a ticket to report any license violation.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) -->
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
