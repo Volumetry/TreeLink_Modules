@@ -1,7 +1,7 @@
 # TreeLink Module BWLR1E
  <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/device.jpg" alt="drawing"  width="50%" height="50%"/></p>
  
-Treelink Module BWLR1E is a solar-powered wireless LoRa environmental sensor capable of sensing temperature, humidity, air pressure and air quality using the on-board BME688. 
+Volumetry's Treelink Module BWLR1E is a solar-powered wireless LoRa environmental sensor capable of sensing temperature, humidity, air pressure and air quality using the on-board BME688. 
 With STM32WLE MCU as it's core and AEM10941 for solar charging, the device is capable of multi-year operation with the possibility of indefinite battery-life by utilizing the solar charging capability
 
 <!-- Teapotlabs BWLR1E is part of  [Teapot open-hardware project](https://github.com/teapotlaboratories). -->
@@ -137,7 +137,4 @@ An alternative to solder-free programming is to use the Teapotlabs BWLR1E Progra
 The programmer connects to UART2 of the device. 
 
 ## License
-The product is open-source! However, some part of library used under **src**, might have it's own license.
-Please reach out or create a ticket to report any license violation.
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+© 2025 Volumetry, Inc. All rights reserved.
