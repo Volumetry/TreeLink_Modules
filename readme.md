@@ -1,4 +1,5 @@
-# Volumetry TreeLink Module - LoRa + Solar Panel Mesh Metwork Module
+# Volumetry TreeLink Module 
+# - LoRa + Solar Panel Mesh Network Module
  <p align="center"> <img src="https://raw.githubusercontent.com/teapotlaboratories/bwlr1e/main/docs/images/device.jpg" alt="drawing"  width="50%" height="50%"/></p>
  
 Volumetry's Treelink Module BWLR1E is a solar-powered wireless LoRa environmental sensor capable of sensing temperature, humidity, air pressure and air quality using the on-board BME688. 
